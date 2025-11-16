@@ -1,15 +1,17 @@
-Legendary Icefire Integration
+Ice and Fire: Reborn
 
-Legendary Icefire is a Minecraft mod that integrates Legendary Survival Overhaul and Ice and Fire Dragons by adding new items, recipes, and special effects to enhance your gameplay experience.
+Ice and Fire Reborn is an expansion-style addon for Ice and Fire, focused on quality-of-life improvements, balance tweaks, and new gameplay features.
 
 ---
 
-Features
-
-- Adds Fire Dragon Bottle, Ice Dragon Bottle, and Lightning Dragon Bottle, each with unique effects when consumed.
-- Introduces Vital Dragon Stew, a healing item slightly stronger than the Bandage from Legendary Survival Overhaul.
-- Craftable items using materials from both Legendary Survival Overhaul and Ice and Fire.
-- New recipes for Cold String and Warm String from Legendary Survival Overhaul.
+Current Features include:
+   - Rebalanced Tide Guardian armor – weaker and more fair for progression.
+   - Craftable Dragon Saddle – required to ride dragons; comes with a dedicated saddle slot.
+Future features:
+   - Gorgon Head / Medusa Head blacklist to control which entities can be petrified
+   - Additional balance adjustments
+   - Extra QoL features and community-requested additions
+This mod aims to refine the Ice and Fire experience while keeping true to the spirit of the original mod.
 
 ---
 
@@ -41,10 +43,6 @@ https://docs.minecraftforge.net/en/1.20.1/gettingstarted/
 ---
 
 Credits and Licenses
-
-- Legendary Survival Overhaul — MIT License
-  This mod includes code from Legendary Survival Overhaul, licensed under the MIT License.
-  Full license text: see LICENSE_MIT.txt or https://opensource.org/licenses/MIT
 
 - Ice and Fire Dragons — GNU Lesser General Public License (LGPL)
   This mod uses item and ID data from Ice and Fire Dragons, licensed under LGPL.
